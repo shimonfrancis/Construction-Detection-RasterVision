@@ -5,6 +5,6 @@ Here I used [tmstogeotiff](https://github.com/gumblex/tms2geotiff) to download h
 
 Example:
 
-![Prediction Example](/Construction Detection.png)
+![Prediction Example](Construction Detection.png)
 
 
